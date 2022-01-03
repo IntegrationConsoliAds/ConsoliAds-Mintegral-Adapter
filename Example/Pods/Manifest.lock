@@ -1,0 +1,27 @@
+PODS:
+  - ConsoliAds-Mintegral-Adapter (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ConsoliAds-Mintegral-Adapter (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ConsoliAds-Mintegral-Adapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConsoliAds-Mintegral-Adapter: a470ff85d79e1339f92a6d7bfe8ef0db992928d9
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: dc3fa707f44f8804ff171d00e1038990ef59988e
+
+COCOAPODS: 1.11.2
