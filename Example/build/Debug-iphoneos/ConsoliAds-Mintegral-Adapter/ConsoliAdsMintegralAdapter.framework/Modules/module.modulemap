@@ -1,0 +1,6 @@
+framework module ConsoliAdsMintegralAdapter {
+  umbrella header "ConsoliAdsMintegralAdapter.h"
+
+  export *
+  module * { export * }
+}

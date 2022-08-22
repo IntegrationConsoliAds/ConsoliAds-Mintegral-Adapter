@@ -1,0 +1,75 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98446dca114907b0298653c91157f010ae"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9821ded137e13bbb9a6e2b86de32ed2bd2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98cd5965130f3f740df76aa0b323785cbb"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ebbf0efec67f5e9fa94ce156294e22e8"
+    }
+  ],
+  "containerPath" : "/Volumes/DataDrive/WorkSpace/CocoaPod Git Repos/ConsoliAds-Mintegral-Adapter/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/osamanadeem/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/osamanadeem/Library/Developer/Xcode/DerivedData/Pods-dpzfnbtycvalchfheuweoolzrtdj/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/osamanadeem/Library/Developer/Xcode/DerivedData/Pods-dpzfnbtycvalchfheuweoolzrtdj/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone10,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "d41f3f6ea0bf166593fe18104074c686af3e656b",
+          "TARGET_DEVICE_MODEL" : "iPhone10,5",
+          "TARGET_DEVICE_OS_VERSION" : "15.6",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
