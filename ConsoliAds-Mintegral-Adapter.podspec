@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ConsoliAds-Mintegral-Adapter'
-  s.version          = '7.0.3.0-1.2'
+  s.version          = '7.0.3.0-1.3'
   s.summary          = 'This pod is used to get caMintegral adapter for mintegralAd serving after integrating Consoliads-Mediation pod.'
 
 # This description is used to generate tags and improve search results.
