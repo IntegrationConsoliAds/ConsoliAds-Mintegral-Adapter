@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+FBSnapshotTestCase in Pods, no dependencies
+ConsoliAds-Mintegral-Adapter in Pods, no dependencies
+Pods-ConsoliAds-Mintegral-Adapter_Example in Pods, depends on:
+ConsoliAds-Mintegral-Adapter in Pods (explicit)
+Pods-ConsoliAds-Mintegral-Adapter_Tests in Pods, depends on:
+FBSnapshotTestCase in Pods (explicit)
+Pods-ConsoliAds-Mintegral-Adapter_Example in Pods (explicit)
